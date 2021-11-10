@@ -22,5 +22,8 @@ object BlinkEffect {
             animator.repeatCount=Animation.INFINITE
             animator.start()
 
+
+
+
     }
 }
