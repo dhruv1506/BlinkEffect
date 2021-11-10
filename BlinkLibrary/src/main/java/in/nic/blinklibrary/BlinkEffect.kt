@@ -21,6 +21,7 @@ object BlinkEffect {
             animator.repeatCount=Animation.REVERSE
             animator.repeatCount=Animation.INFINITE
             animator.start()
+            print("")
 
 
 
